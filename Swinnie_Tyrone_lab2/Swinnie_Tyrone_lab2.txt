@@ -2,3 +2,4 @@ http://tswinnie.github.io/web-standards/Swinnie_Tyrone_lab2/about.html
 http://tswinnie.github.io/web-standards/Swinnie_Tyrone_lab2/html_recipe.html
 http://tswinnie.github.io/web-standards/Swinnie_Tyrone_lab2/index.html
 http://tswinnie.github.io/web-standards/Swinnie_Tyrone_lab2/validation_check.html
+https://github.com/tswinnie/web-standards/tree/gh-pages/Swinnie_Tyrone_lab2
