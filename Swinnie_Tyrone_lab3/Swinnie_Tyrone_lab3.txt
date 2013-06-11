@@ -1,0 +1,4 @@
+https://github.com/tswinnie/web-standards/tree/gh-pages/Swinnie_Tyrone_lab3
+http://tswinnie.github.io/web-standards/Swinnie_Tyrone_lab3/new%20template%202.html
+http://tswinnie.github.io/web-standards/Swinnie_Tyrone_lab3/video.html
+http://tswinnie.github.io/web-standards/Swinnie_Tyrone_lab3/image_optimization.html
