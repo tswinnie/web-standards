@@ -1,0 +1,3 @@
+https://github.com/tswinnie/web-standards/tree/gh-pages/Swinnie_Tyrone_Lab6
+http://tswinnie.github.io/web-standards/Swinnie_Tyrone_Lab6/form.html
+http://tswinnie.github.io/web-standards/Swinnie_Tyrone_Lab6/table.html

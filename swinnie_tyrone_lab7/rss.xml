@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+
+<channel>
+	<title>The Best Smart Phone Out Now!</title>
+      <link></link>
+      <description>I will break down which smart phone is the best phone out right now!</description>
+      <language>en-us</language>
+      <pubDate>Mon, 10 Sep 2012 09:00:00 GMT</pubDate>
+	<item>
+	  <title>Googl Nexus</title>
+	  <link></link>
+	  <description>Google hasn’t released any devices with its stamp of approval after it acquired Motorola. Google has followed Microsoft in promoting its Android platform as an independent OS.</description>
+	  <pubDate>Mon, 11 Sep 2012 06:30:00 EST</pubDate>
+  	</item>
+
+  	<item>
+	    <title>Apple Iphone5</title>
+	    <link></link>
+	    <description>The second wave that was available from December 6th was again out of stock just before Christmas. Seen objectively, this is no surprise.</description>
+	    <pubDate>Mon, 12 Sep 2012 07:40:00 EST</pubDate>
+	</item>
+  
+	<item>
+	    <title>Blackberryz10</title>
+	    <link></link>
+	    <description>The BlackBerry Z10 is the first handset from the company formerly known as RIM, now renamed BlackBerry, to run its new operating system BlackBerry 10, and there's much more on the line here than simply making a few pennies - arguably the company's survival rests on the success of this device and the BlackBerry Q10.</description>
+	    <pubDate>Mon, 15 Sep 2012 08:00:00 EST</pubDate>
+	</item>
+
+</channel>
+</rss> 
